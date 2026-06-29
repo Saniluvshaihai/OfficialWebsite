@@ -4,7 +4,7 @@ function initCarousel(container) {
     const sliderNav = container.querySelector(".slider-nav");
     const prevBtn = container.querySelector(".slider-arrow.prev");
     const nextBtn = container.querySelector(".slider-arrow.next");
-
+ 
     let currentSlide = 0;
     const slideCount = slides.length;
     let intervalId = null;
