@@ -275,6 +275,16 @@ a {
     width: 472.5px;
 }
 
+.centre-digi {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.centre-tech {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* junior.html */
 .junior-header {
     margin: 0;
@@ -494,6 +504,21 @@ h5 {
     width: 472.5px;
 }
 
+.jun-cen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jun-cen2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.jun-cen3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* middle.html*/
 
 .middle-start {
@@ -667,6 +692,26 @@ h6 {
   max-height: 1500px;
 }
 
+.yr7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yr8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yr9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yr10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* image carousel yr7 */
 @keyframes fadeInUp {
     from {
@@ -968,6 +1013,21 @@ h6 {
   max-height: 1500px;
 }
 
+.yr11 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yr12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.yr13 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 /* contact.html */
 h7 {
     font-family: "Quantico", sans-serif;
